@@ -1,2 +1,2 @@
 # Projet-1
-Station météo communicant ses résultats en LoRa
+Station météo communicant ses relevés en LoRa
